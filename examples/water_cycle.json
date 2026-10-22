@@ -1,0 +1,103 @@
+{
+  "title": "Always the same water",
+  "style": "Photorealistic nature documentary, natural light, gentle slow camera movement, rich color, high detail",
+  "seconds": 5.5,
+  "shots": [
+    {
+      "id": 1,
+      "continue": false,
+      "prompt": "Low camera gliding over the open ocean surface at sunrise, small waves glittering with golden light, horizon slightly tilted.",
+      "audio": "soft rolling waves, distant seagull",
+      "narration_pt": "Toda gota de chuva que você já viu foi oceano.",
+      "narration_en": "Every raindrop you have ever seen was once ocean."
+    },
+    {
+      "id": 2,
+      "continue": true,
+      "prompt": "The camera slows and lowers toward the water; thin wisps of vapor rise from the warm surface, backlit by the low sun.",
+      "audio": "calm water, light breeze",
+      "narration_pt": "O sol aquece a superfície, e a água sobe.",
+      "narration_en": "Sunlight warms the surface, and water rises as vapor."
+    },
+    {
+      "id": 3,
+      "continue": false,
+      "prompt": "Time-lapse of white cumulus clouds forming and swelling over the sea under a deep blue sky.",
+      "audio": "high-altitude wind",
+      "narration_pt": "Lá no alto, o ar esfria e vira nuvem.",
+      "narration_en": "Higher up, the air cools and the vapor becomes cloud."
+    },
+    {
+      "id": 4,
+      "continue": true,
+      "prompt": "The clouds darken and thicken into a storm front rolling over forested mountains, light fading.",
+      "audio": "distant thunder, rising wind",
+      "narration_pt": "As nuvens crescem, pesadas e escuras, sobre as montanhas.",
+      "narration_en": "The clouds grow heavy and dark over the mountains."
+    },
+    {
+      "id": 5,
+      "continue": false,
+      "prompt": "Heavy rain falling on a dense pine forest, slow push-in between the trunks, mist between the trees.",
+      "audio": "heavy rain on leaves",
+      "narration_pt": "Então a gravidade vence, e a água volta a cair.",
+      "narration_en": "Then gravity wins, and the water falls back down."
+    },
+    {
+      "id": 6,
+      "continue": false,
+      "prompt": "Macro shot: a raindrop hits a broad green leaf and splashes, smaller droplets roll off the edge in slow motion.",
+      "audio": "single crisp droplet impact, soft rain",
+      "narration_pt": "Cada gota encontra um caminho: folha, pedra, chão.",
+      "narration_en": "Each drop finds a path: leaf, stone, soil."
+    },
+    {
+      "id": 7,
+      "continue": false,
+      "prompt": "A small clear mountain stream running over mossy rocks, camera follows the water downstream at ground level.",
+      "audio": "babbling brook",
+      "narration_pt": "Os filetes se juntam e viram riacho.",
+      "narration_en": "Trickles join and become a stream."
+    },
+    {
+      "id": 8,
+      "continue": false,
+      "prompt": "A tall waterfall plunging into a misty canyon, slow tilt down following the falling water.",
+      "audio": "roaring waterfall",
+      "narration_pt": "O riacho ganha força e despenca pelo vale.",
+      "narration_en": "The stream gathers force and plunges into the valley."
+    },
+    {
+      "id": 9,
+      "continue": false,
+      "prompt": "Aerial drone shot of a wide river winding through a green valley in late afternoon light.",
+      "audio": "gentle wind, faint river flow",
+      "narration_pt": "Lá embaixo, já é um rio largo e paciente.",
+      "narration_en": "Down below, it is now a wide and patient river."
+    },
+    {
+      "id": 10,
+      "continue": true,
+      "prompt": "The drone continues as the river passes a small town at dusk, warm window lights reflecting on the water.",
+      "audio": "distant town ambience, water",
+      "narration_pt": "Ele atravessa cidades, gira turbinas, enche copos.",
+      "narration_en": "It runs through towns, turns turbines, fills glasses."
+    },
+    {
+      "id": 11,
+      "continue": false,
+      "prompt": "Aerial view of a river delta meeting the sea, brown river water swirling into deep blue ocean water.",
+      "audio": "ocean surf, wind",
+      "narration_pt": "E, no fim, encontra o mar de onde saiu.",
+      "narration_en": "And in the end, it meets its sea."
+    },
+    {
+      "id": 12,
+      "continue": true,
+      "prompt": "The camera rises from the waves toward a sunset sky where the first thin clouds begin to form.",
+      "audio": "waves fading, soft wind",
+      "narration_pt": "Para começar tudo de novo. Sempre a mesma água.",
+      "narration_en": "Only to begin again. Always the same water."
+    }
+  ]
+}

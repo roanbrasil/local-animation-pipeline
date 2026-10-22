@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+clips/
+out/
+youtube/
+narration_*.wav
+final_*.mp4
+shots.json
+workflows/*.json
+!workflows/README.md
+.DS_Store
